@@ -25,16 +25,9 @@ DHT dht(DHTPIN, DHTTYPE);
 // ======================
 // CONFIG WiFi
 // ======================
-//const char* ssid     = "MEGADEATH";
-//const char* password = "4RC4NG31Z0M8";
-//const char* ssid     = "System_House_RD";
-//const char* password = "Sys_Hou#2024**";
-//const char* ssid     = "Adr";
-//const char* password = "adrianosqui";
-//const char* ssid     = "MONTERREY";
-//const char* password = "octavio123*.*";
-const char* ssid     = "TG_TIC*";
-const char* password = "3143265oj";
+
+const char* ssid     = "YOUR_ID_WIFI*";
+const char* password = "YOUR_PASSWORD_XXXX";
 
 
 
