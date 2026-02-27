@@ -90,4 +90,3 @@ Multidisciplinarity: Involvement of apprentices from various technical areas in 
 
 SENA-CDATH - 2026
 
-Would you like me to generate a requirements.txt file or a basic folder structure to go along with this README?
