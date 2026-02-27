@@ -28,6 +28,12 @@ Productivity at the Paicol Farm is hindered by factors such as heat stress, poor
 The Proposal
 To implement an information system that integrates a network of smart sensors and actuators to maintain optimal conditions automatically. The project focuses on interdisciplinarity, scalability, and open-source infrastructure to develop solutions applied to the productive sector.
 
+<img width="1373" height="590" alt="image" src="https://github.com/user-attachments/assets/9c8f439e-59aa-4e47-ad86-d07c945a0cd4" />
+
+
+
+
+
 🏗️ System Architecture (The Heart of the Project)
 The system is divided into three functional layers:
 
@@ -61,6 +67,9 @@ IoT: TCP/IP for Webserver on ESP32.
 Visualization: Dashboard developed in HTML and CSS.
 
 Storage: Local real-time database (with future expansion plans).
+
+<img width="651" height="488" alt="image" src="https://github.com/user-attachments/assets/5dc6e6be-30a7-4ff0-9df7-548f00aadd73" />
+
 
 🤖 Control Algorithm (Automation)
 The control logic is based on predefined conditions:
