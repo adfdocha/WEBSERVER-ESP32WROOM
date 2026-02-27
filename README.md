@@ -3,6 +3,11 @@
 AVIOT: IoT Instrumentation System for Environmental Monitoring and Control in Poultry Farms
 This project is part of the Information System to Optimize Production Processes at Paicol Farm (SIOP) by SENA-CDATH. Its goal is to implement automated monitoring and control of environmental variables to enhance productivity and animal welfare.
 
+
+<img width="926" height="600" alt="image" src="https://github.com/user-attachments/assets/1e56b043-173a-494f-a277-b829703a9012" />
+
+
+
 👥 Instructors & Contributors
 Adrian Fernando Chavarro
 
